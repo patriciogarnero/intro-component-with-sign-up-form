@@ -125,6 +125,7 @@ input:focus {
 
 .form-control.error input {
   border: solid 1px var(--red);
+  color: var(--red);
 }
 
 .form-container p {
