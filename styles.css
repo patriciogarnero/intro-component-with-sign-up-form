@@ -109,6 +109,11 @@ label {
   border: 1px solid var(--grayish-blue);
 }
 
+input:focus {
+  outline: none;
+  border: solid 1px var(--blue);
+}
+
 #button {
   color: white;
   background-color: var(--green);
