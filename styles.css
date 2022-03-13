@@ -182,6 +182,7 @@ input:focus {
   }
   .intro h2 {
     font-size: 3rem;
+    line-height: 0.9;
   }
 
   .intro p {
